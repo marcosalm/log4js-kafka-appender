@@ -1,5 +1,5 @@
 {
-  "name": "@log4js-node/kafka",
+  "name": "log4js-kafka-appender",
   "version": "1.0.0",
   "description": "Kafka Appender for log4js-node",
   "homepage": "",
